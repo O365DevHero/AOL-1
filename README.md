@@ -19,7 +19,7 @@ Welcome to the Advice of Life (AOL) project repository. This project provides a 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/O365DevHero/AOL.git
+   git clone https://github.com/Sethana-s/AOL.git
    ```
 2. Navigate to the project directory:
    ```bash
